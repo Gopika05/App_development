@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDDxS9Rz4w_cHXhIKADeZxWaea7TID73wY",
+  apiKey: "YOUR_API_KEY",
   authDomain: "bookworm-2b417.firebaseapp.com",
   projectId: "bookworm-2b417",
   storageBucket: "bookworm-2b417.appspot.com",
