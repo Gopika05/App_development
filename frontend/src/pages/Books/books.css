@@ -1,0 +1,54 @@
+
+  
+  .content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+  
+  .books-component {
+    padding: 20px;
+  }
+  
+  .add-button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .book-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .book-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .book-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .book-actions button {
+    border: none;
+    background-color:transparent;
+    cursor: pointer;
+  }
+  
+  .book-actions button:hover {
+
+    color: #020304;
+  }
+  

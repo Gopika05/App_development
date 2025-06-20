@@ -1,0 +1,106 @@
+/* Footer Styles */
+.footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer-logo {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .footer-links {
+    margin-bottom: 20px;
+  }
+  
+  .footer-link {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s;
+  }
+  
+  .footer-link:hover {
+    color: #f1c40f;
+  }
+  
+  .footer-social {
+    margin-bottom: 20px;
+  }
+  
+  .footer-social p {
+    margin-bottom: 10px;
+  }
+  
+  .footer-social .socialLinkStyle {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 24px;
+    transition: color 0.3s;
+  }
+  
+  .footer-social .socialLinkStyle:hover {
+    color: #f1c40f;
+  }
+  
+  .footer-app-links {
+    margin-bottom: 20px;
+  }
+  
+  .footer-app-links img {
+    height: 40px;
+    margin: 0 10px;
+    transition: opacity 0.3s;
+  }
+  
+  .footer-app-links img:hover {
+    opacity: 0.8;
+  }
+  
+  .footer-subscription {
+    margin-bottom: 20px;
+  }
+  
+  .subscription-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .subscription-input {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  .subscription-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1c40f;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .subscription-button:hover {
+    background-color: #e7cb5a;
+  }
+  
+  .footer-bottom {
+    border-top: 1px solid #444;
+    padding-top: 10px;
+    margin-top: 20px;
+  }
+  

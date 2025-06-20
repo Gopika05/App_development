@@ -1,0 +1,13 @@
+.games-container {
+    display: flex;
+  }
+  .content {
+    flex-grow: 1; /* Occupies remaining space */
+    background-color: #3e3c3c; /* Light gray background for content */
+    padding: 20px;
+    box-sizing: border-box; /* Include padding in width/height */
+    background-image: url('https://miro.medium.com/v2/resize:fit:1200/1*S81O15rjKfG-BFdnNC6-GQ.jpeg');
+    background-repeat: no-repeat;
+    /* background-size:auto ; */
+    /* height: 100%; */     
+  }
